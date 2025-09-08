@@ -38,7 +38,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/jharkhand-explorer.git
+    git clone https://github.com/Ultron09/jharkhand_sih
     cd jharkhand-explorer
     ```
 
